@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1687785254 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk5\z5\main.cpp
+	<iostream>
+	<string>
+	"dane.h"
+	"kontener.h"
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+
+1687785395 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk5\z5\dane.cpp
+	"dane.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1687784805 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk5\z5\dane.h
+	<string>
+
+1687780144 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk5\z5\kontener.cpp
+	"kontener.h"
+	<iostream>
+
+1687785658 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk5\z5\kontener.h
+	<iostream>
+
+1687785395 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk5\z5\dane.cpp
+	"dane.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1687784805 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk5\z5\dane.h
+	<string>
+
+1687785254 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk5\z5\main.cpp
+	<iostream>
+	<string>
+	"dane.h"
+	"kontener.h"
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+
+1687785658 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk5\z5\kontener.h
+	<iostream>
+

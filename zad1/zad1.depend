@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1687437030 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk1\zad1\main.cpp
+	<iostream>
+	"student.h"
+	"lista.h"
+	<string>
+	<fstream>
+	<sstream>
+	<stdexcept>
+
+1687433676 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk1\zad1\lista.cpp
+	"student.h"
+	"lista.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1687433378 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk1\zad1\student.h
+	<string>
+
+1687433384 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk1\zad1\lista.h
+	"student.h"
+	<string>
+
+1687433451 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk1\zad1\student.cpp
+	<string>
+	<stdexcept>
+	<iostream>
+	"student.h"
+

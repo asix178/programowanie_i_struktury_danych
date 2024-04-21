@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1687818041 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk4\zad4\main.cpp
+	<iostream>
+	"lista.h"
+	<string>
+	<fstream>
+	<sstream>
+	<stdexcept>
+
+1687641087 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk4\zad4\lista.cpp
+	"lista.h"
+	"iban.h"
+	<string>
+	<iostream>
+
+1687640612 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk4\zad4\lista.h
+	"iban.h"
+	<string>
+
+1687638512 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk4\zad4\iban.h
+	<string>
+
+1687640184 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk4\zad4\iban.cpp
+	"iban.h"
+	<string>
+	<stdexcept>
+	<iostream>
+
+1687640184 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk4\zad4\iban.cpp
+	"iban.h"
+	<string>
+	<stdexcept>
+	<iostream>
+
+1687638512 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk4\zad4\iban.h
+	<string>
+
+1687641087 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk4\zad4\lista.cpp
+	"lista.h"
+	"iban.h"
+	<string>
+	<iostream>
+
+1687640612 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk4\zad4\lista.h
+	"iban.h"
+	<string>
+

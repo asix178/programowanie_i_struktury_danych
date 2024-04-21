@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1687618937 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\listast.cpp
+	<iostream>
+	<stdexcept>
+	"listaST.h"
+	"podatnik.h"
+	<string>
+
+1687551434 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\listast.h
+	"podatnik.h"
+	<string>
+
+1687552950 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\podatnik.h
+	<iostream>
+	<string>
+
+1687619043 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	"listaST.h"
+	<string>
+
+1687817500 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\podatnik.cpp
+	<iostream>
+	<string>
+	"podatnik.h"
+	<string>
+
+1687618937 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\listast.cpp
+	<iostream>
+	<stdexcept>
+	"listaST.h"
+	"podatnik.h"
+	<string>
+
+1687551434 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\listast.h
+	"podatnik.h"
+	<string>
+
+1687552950 c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\podatnik.h
+	<iostream>
+	<string>
+
+1687817727 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	"listaST.h"
+	<string>
+
+1687817500 source:c:\users\asia\desktop\programowanie_i_str_danych\egazamin\przyk3\zad3\zad3\podatnik.cpp
+	<iostream>
+	<string>
+	"podatnik.h"
+	<string>
+
